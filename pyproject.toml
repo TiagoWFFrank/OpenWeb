@@ -108,7 +108,7 @@ dependencies = [
     "youtube-transcript-api==1.2.4",
 
     "pydub==0.25.1",
-    "ddgs==9.14.4",
+    "ddgs==9.16.0",
 
     "googleapis-common-protos==1.75.0",
     "google-cloud-storage==3.9.0",
